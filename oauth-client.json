@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/plantsgrownorth/bb-meta@dcb4fa9/oauth-client.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/plantsgrownorth/bb-meta@main/oauth-client.json",
   "client_name": "AttackerCorp",
   "client_uri": "https://evil.example.org",
   "redirect_uris": [
